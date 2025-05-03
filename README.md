@@ -119,8 +119,8 @@ This is an **advanced** custom firewall management system written in **Bash**, d
 ---
 
 ## 👨‍💻 Authors
-- Loay (Lead Dev)
-- Collaborator X (Script Testing, Logging Enhancements)
+- Loay 
+- Mohamed abbas 
 
 ---
 
